@@ -1,0 +1,2 @@
+height= input("Введите свой рост")
+print(height)
